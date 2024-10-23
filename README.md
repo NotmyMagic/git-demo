@@ -2,8 +2,6 @@
 
 This is the first file in this repo
 
-## Blah blah
+## Website Contents
 
-blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah
-
-adding some more nonsense
+1. index.html
