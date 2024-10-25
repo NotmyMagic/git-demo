@@ -31,21 +31,32 @@ nav li {
   font-size: 20px;
 }
 
+a:link {
+  color: #94176f;
+}
+
 a:hover {
   color: rgb(124, 6, 6);
 }
 
-div {
-  margin: 30px;
+.m-div {
+  margin: 25px 85px;
+  padding: 30px 15px;
+  background-color: rgb(153, 153, 153);
+  border: solid gray 5px;
+}
+
+h2 {
+  margin: 15px 15px;
 }
 
 .e-text {
-  margin: 200px inherit;
-  padding: 30px 100px;
+  margin: 15px 85px;
+  padding: 30px 15px;
   font-size: 20px;
 }
 
-.e-images {
+.e-imgs {
   display: flex;
   justify-content: space-around;
 }
